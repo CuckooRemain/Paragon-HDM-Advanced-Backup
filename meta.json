@@ -1,0 +1,23 @@
+{
+  "repo": "paragon-hdm-advanced-backup",
+  "product": "Paragon HDM Advanced Backup",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "paragon-hdm-backup",
+    "paragon-hdm",
+    "data-backup",
+    "how-to-install-paragon-hdm",
+    "how-to-setup-paragon-hdm",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "paragon-backup"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Paragon HDM Advanced Backup"
+}
